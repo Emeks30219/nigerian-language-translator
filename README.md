@@ -2,7 +2,7 @@
 
 Translate everyday English words into five Nigerian languages — Yoruba, Hausa, Igbo, Idoma, and Kanuri — and back again.
 
-**Live app:** _add your Streamlit deployment link here once it's live_
+**Live app:** _https://nigerian-language-translator-d1erma8btsf.streamlit.app/_
 
 ---
 
