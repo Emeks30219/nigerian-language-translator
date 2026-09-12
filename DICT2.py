@@ -3,7 +3,7 @@ import difflib
 import streamlit as st
 
 def load_language(name):
-    with open(f"DATA/{name}.json", "r", encoding="utf-8") as f:
+    with open(f"{name}.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
 languages = {
